@@ -1,7 +1,7 @@
 # Cognifyz-Tasks
 
 # # Project Levels and Tasks
-Beginner (Level 1)
+# # # Beginner (Level 1)
 Task 1: Build a basic HTML page with structure, headings, paragraphs, and an image.
 Task 2: Apply inline CSS for styling (e.g., font color, size, background).
 Intermediate (Level 2)
